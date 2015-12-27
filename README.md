@@ -9,9 +9,9 @@ The following is the summary of how the "run_analysis.R" works:
 
 4.Join those datasets.
 
-5.Melt those datasets.
+5.Melt the dataset.
 
-6.Dcast those datasets.
+6.Dcast the dataset.
 
 7.Write out the tidy data, and save it as the file "tidy.data.txt".
 
