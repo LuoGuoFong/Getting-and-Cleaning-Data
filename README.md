@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data
 The following is the summary of how the "run_analysis.R" works:
 
-1.It will install the packages "data.table" and "reshape2", if they weren't installed.
+1.It will install the packages "data.table" and "reshape2" if they weren't installed.
 
 2.Library these two packages.
 
