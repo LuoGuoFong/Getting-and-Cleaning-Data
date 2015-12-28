@@ -15,3 +15,4 @@ The following is the summary of how the "run_analysis.R" works:
 
 7.Write out the tidy data, and save it as the file "tidy.data.txt".
 
+Note: Please make sure that you have download the file from the class to the "working directory"!
